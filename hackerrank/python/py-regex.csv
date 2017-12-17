@@ -1,0 +1,18 @@
+problem,difficulty
+Introduction to Regex Module,Easy
+Re.split(),Easy
+Group(), Groups() & Groupdict(),Easy
+Re.findall() & Re.finditer(),Easy
+Re.start() & Re.end(),Easy
+Regex Substitution,Medium
+Validating Roman Numerals,Easy
+Validating phone numbers,Easy
+Validating and Parsing Email Addresses,Easy
+Hex Color Code,Easy
+HTML Parser - Part 1,Easy
+HTML Parser - Part 2,Easy
+Detect HTML Tags, Attributes and Attribute Values,Easy
+Validating UID ,Easy
+Validating Credit Card Numbers,Medium
+Validating Postal Codes,Hard
+Matrix Script,Hard

@@ -1,0 +1,8 @@
+problem,difficulty
+itertools.product(),Easy
+itertools.permutations(),Easy
+itertools.combinations(),Easy
+itertools.combinations_with_replacement(),Easy
+Compress the String! ,Medium
+Iterables and Iterators,Medium
+Maximize It!,Hard
